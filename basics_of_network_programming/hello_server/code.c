@@ -1,3 +1,4 @@
+//---Linux에서 구동---
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
